@@ -4,11 +4,6 @@
 # Main Concept : add the list in a set ( contains only unique values ).
 #               Compare the length of set and list 
 
-# Intuition:
-# Intuition:
-# Intuition:
-# Intuition:
-
 
 
 class Solution:
